@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js",
-    "build": "npm install"
+    "server": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "AdityaChavan_Giganxt",
   "license": "ISC",
